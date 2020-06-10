@@ -1,0 +1,28 @@
+Manual
+.Open Crack.exe /dont close all install process Illustrator/
+.Start Illustrator_Set-Up
+.Restart PC
+.Run as administartor
+
+
+Discribe
+Generating public/private rsa key pair in catalog tree.
+Enter file in which to save the key (auto): 
+Created directory 'auto'.
+Enter passphrase (auto): 
+Enter same passphrase again: 
+Your identification has been saved in /PC/.
+
+
+The key's randomart image is:
++--[ RSA 2048]----+
+|   .+o++o.       |
+|   +E. ++        |
+|  o . o o.       |
+|   . o B .       |
+|    . B S        |
+|       *         |
+|      . .        |
+|       o         |
+|        .        |
++-----------------+
